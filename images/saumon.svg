@@ -1,0 +1,33 @@
+<svg width="960" height="720" viewBox="0 0 960 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gravlax de saumon illustré">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e7f7ff" />
+      <stop offset="100%" stop-color="#f3e8ff" />
+    </linearGradient>
+    <linearGradient id="fish" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9c6e" />
+      <stop offset="100%" stop-color="#ff6f61" />
+    </linearGradient>
+    <radialGradient id="light" cx="50%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="960" height="720" rx="36" fill="url(#bg2)" />
+  <rect x="110" y="140" width="740" height="440" rx="32" fill="#ffffff" opacity="0.7" />
+  <rect x="140" y="170" width="680" height="380" rx="28" fill="url(#light)" />
+  <path d="M160 410c120-140 320-240 560-200 70 12 120 72 30 140-140 106-350 158-490 120-84-24-140-82-100-60z" fill="url(#fish)" stroke="#e8614f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M230 380c80-40 190-60 320-46" fill="none" stroke="#ffd2c0" stroke-width="10" stroke-linecap="round" opacity="0.85" />
+  <path d="M280 450c110 40 310 18 430-58" fill="none" stroke="#ffe3d8" stroke-width="10" stroke-linecap="round" opacity="0.9" />
+  <circle cx="280" cy="360" r="10" fill="#ffeadd" />
+  <circle cx="340" cy="340" r="10" fill="#ffeadd" />
+  <circle cx="400" cy="330" r="10" fill="#ffeadd" />
+  <circle cx="460" cy="332" r="10" fill="#ffeadd" />
+  <circle cx="520" cy="342" r="10" fill="#ffeadd" />
+  <circle cx="580" cy="360" r="10" fill="#ffeadd" />
+  <circle cx="640" cy="388" r="10" fill="#ffeadd" />
+  <path d="M700 324c-6 16-4 30 10 40 20 14 40 2 48-16 8-18 0-38-16-44-16-6-34 0-42 20z" fill="#2f4858" />
+  <path d="M700 324c14-10 28-8 34 6 6 14-4 26-18 30" fill="none" stroke="#a9d9ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M200 490c60 40 250 52 360 34 120-20 184-70 116-96-58-22-270-10-408 26-38 10-64 20-68 36z" fill="#f4fbff" stroke="#d8e7ff" stroke-width="4" />
+  <text x="60" y="650" font-family="'Manrope', 'Helvetica Neue', Arial" font-size="42" fill="#0f4c81" font-weight="700">Gravlax de saumon à la betterave</text>
+</svg>

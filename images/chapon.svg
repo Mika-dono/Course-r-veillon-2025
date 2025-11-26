@@ -1,0 +1,35 @@
+<svg width="960" height="720" viewBox="0 0 960 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Chapon rôti illustré">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff1f5" />
+      <stop offset="100%" stop-color="#ffe1e9" />
+    </linearGradient>
+    <linearGradient id="glow" x1="10%" y1="0%" x2="90%" y2="100%">
+      <stop offset="0%" stop-color="#f7c5d4" />
+      <stop offset="100%" stop-color="#f8e7ef" />
+    </linearGradient>
+    <linearGradient id="skin" x1="0%" y1="0%" x2="100%" y2="80%">
+      <stop offset="0%" stop-color="#f6a45a" />
+      <stop offset="100%" stop-color="#d76a2b" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="720" fill="url(#bg)" rx="36" />
+  <circle cx="160" cy="120" r="90" fill="#fff8fb" opacity="0.8" />
+  <circle cx="820" cy="180" r="140" fill="#ffe3e8" opacity="0.65" />
+  <ellipse cx="480" cy="520" rx="340" ry="90" fill="url(#glow)" opacity="0.8" />
+  <ellipse cx="480" cy="520" rx="300" ry="70" fill="#fefefe" opacity="0.8" />
+  <path d="M210 430c80-130 270-160 380-100 60 32 90 100 60 140-24 32-80 46-130 48-96 4-230-8-310-88z" fill="url(#skin)" stroke="#d4571d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M210 430c30 40 120 78 250 72" fill="none" stroke="#f8cba7" stroke-width="10" stroke-linecap="round" />
+  <path d="M632 330c-18 30-18 58-10 76" fill="none" stroke="#f5d7c1" stroke-width="8" stroke-linecap="round" />
+  <path d="M330 332c40-20 120-22 170-8" fill="none" stroke="#f9ddc7" stroke-width="10" stroke-linecap="round" />
+  <circle cx="645" cy="308" r="26" fill="#f7c5d4" stroke="#d45c7a" stroke-width="6" />
+  <path d="M642 288c10-20 28-28 44-14 10 10 8 26-4 36-16 12-32 10-36 0" fill="#fff" opacity="0.8" />
+  <circle cx="370" cy="362" r="10" fill="#fff2e6" />
+  <circle cx="430" cy="352" r="10" fill="#fff2e6" />
+  <circle cx="490" cy="348" r="10" fill="#fff2e6" />
+  <circle cx="550" cy="352" r="10" fill="#fff2e6" />
+  <circle cx="610" cy="370" r="10" fill="#fff2e6" />
+  <path d="M280 484c-46 12-70 40-42 62 44 36 274 38 358 16 62-16 86-42 38-72-52-33-180-38-354-6z" fill="#fff6ed" stroke="#ffd7be" stroke-width="4" />
+  <path d="M240 530c60 26 250 28 340 2" fill="none" stroke="#f1b48a" stroke-width="8" stroke-linecap="round" opacity="0.8" />
+  <text x="50" y="650" font-family="'Manrope', 'Helvetica Neue', Arial" font-size="42" fill="#c8102e" font-weight="700">Chapon rôti aux herbes</text>
+</svg>

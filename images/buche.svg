@@ -1,0 +1,43 @@
+<svg width="960" height="720" viewBox="0 0 960 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bûche chocolat framboise illustrée">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff5fb" />
+      <stop offset="100%" stop-color="#efe6ff" />
+    </linearGradient>
+    <linearGradient id="cake" x1="0%" y1="0%" x2="100%" y2="90%">
+      <stop offset="0%" stop-color="#47260f" />
+      <stop offset="100%" stop-color="#2b1407" />
+    </linearGradient>
+    <linearGradient id="frost" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3627c" />
+      <stop offset="100%" stop-color="#b21b39" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="720" rx="36" fill="url(#bg3)" />
+  <circle cx="200" cy="160" r="120" fill="#ffe7f0" opacity="0.8" />
+  <circle cx="740" cy="160" r="140" fill="#f3e8ff" opacity="0.7" />
+  <rect x="120" y="360" width="720" height="180" rx="40" fill="#fff" opacity="0.8" />
+  <rect x="160" y="320" width="640" height="200" rx="36" fill="url(#cake)" stroke="#1e0f06" stroke-width="8" />
+  <rect x="180" y="300" width="600" height="70" rx="24" fill="#fff1f5" stroke="#f0c6d5" stroke-width="5" />
+  <path d="M180 300c20 20 40 20 70 0s60-20 90 0 50 20 80 0 60-20 90 0 60 20 90 0 50-20 70 0" fill="none" stroke="#f3627c" stroke-width="12" stroke-linecap="round" />
+  <circle cx="230" cy="260" r="22" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <circle cx="310" cy="250" r="20" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <circle cx="390" cy="260" r="18" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <circle cx="470" cy="248" r="22" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <circle cx="550" cy="260" r="20" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <circle cx="630" cy="252" r="18" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <circle cx="710" cy="260" r="22" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <circle cx="790" cy="250" r="20" fill="url(#frost)" stroke="#fff" stroke-width="6" />
+  <rect x="180" y="360" width="600" height="160" rx="26" fill="#351a0c" opacity="0.7" />
+  <rect x="200" y="360" width="560" height="150" rx="24" fill="#f7ede4" />
+  <path d="M200 360c40 60 120 60 180 18 40-28 80-24 120 0 80 50 140 42 200-18" fill="none" stroke="#c09a78" stroke-width="10" stroke-linecap="round" />
+  <path d="M240 410c120 40 260 44 420 6" fill="none" stroke="#e3c6ac" stroke-width="8" stroke-linecap="round" opacity="0.8" />
+  <circle cx="260" cy="360" r="8" fill="#c8102e" />
+  <circle cx="340" cy="360" r="8" fill="#c8102e" />
+  <circle cx="420" cy="360" r="8" fill="#c8102e" />
+  <circle cx="500" cy="360" r="8" fill="#c8102e" />
+  <circle cx="580" cy="360" r="8" fill="#c8102e" />
+  <circle cx="660" cy="360" r="8" fill="#c8102e" />
+  <circle cx="740" cy="360" r="8" fill="#c8102e" />
+  <text x="150" y="650" font-family="'Manrope', 'Helvetica Neue', Arial" font-size="42" fill="#5c2a1d" font-weight="700">Bûche chocolat & framboise</text>
+</svg>
